@@ -71,4 +71,4 @@ Değiştirlecek Oyun Özellikleri
 Sonuç
 
     Şimdilik erkenden bitiriyorum Projenin açıklamasını çünkü hala aklıma olan ama tam tasarımını yapmadığım sistemler var ve zamanla bu yazıyı güncelleyerek hem kendimi ileriki işlere hazırlamak ve olası projeyi incelemek isteyenlere ön bilgi vermek amaçlı yazılmıştır. Şuanda hala bazı UI tasarımları ve gerekli assetlerin hazırlanması üzerine çalışıyorum. Eğerki assetlerin belirl bir kısmını topalyabilirsem ve eksikleri azaltabilirsem ana oyunu hazırlamaya başlayacağım.
-   Eğerki benden başka biri okursa ilginiz için teşekkürler. Bu yazı herhangi bir vaat veya reklam amaçlı değil kendimi ve projeyi merak edenleri bilgilendirme amaçlıdır.
+   Eğerki benden başka biri okursa ilginiz için teşekkürler. Bu yazı herhangi bir vaat veya reklam amaçlı değil kendimi ve projeyi merak edenleri bilgilendirme amaçlıdır. Eğerki gelecek özellikleri daha erkenden incelemek isterseniz başlıklar halinde excel dosyasında master branch'ine yükledim ordan bakabilirsiniz. Bu excel dosyası proje başlarında oluşturlduğu için bazı özellikler ve planlar saçma gelebilir. Şimdiden anlayışınız için teşekkürler.
